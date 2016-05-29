@@ -1,4 +1,4 @@
-[![MINI - A naked barebone PHP application](_install/mini.png)](http://www.php-mini.com)
+[![MINI - Simple and easy to understand core PHP MVC application](Git-Loogo.jpg)]
 
 # MINI
 
